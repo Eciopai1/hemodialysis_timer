@@ -11,8 +11,5 @@
       "src": "/(.*)",
       "dest": "server/index.ts"
     }
-  ],
-  "env": {
-    "PNPM_VERSION": "10.x"
-  }
+  ]
 }
